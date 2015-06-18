@@ -1,2 +1,5 @@
-# EFREI_Java
-# Java project done at EFREI (3rd year)
+# EFREI - Java
+
+Java Project
+
+2015 - Alexandre Ravaux & Jérôme Nicolas
